@@ -2,7 +2,11 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/etl_v2/label/constants/label_constants.py" timestamp="1579675377617">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
