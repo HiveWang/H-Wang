@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/test.py" timestamp="1580995153153" />
       <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/etl_v2/label/constants/label_constants.py" timestamp="1579678938117">
         <mark key="[" line="9" column="2" />
         <mark key="]" line="9" column="10" />
@@ -22,7 +23,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
