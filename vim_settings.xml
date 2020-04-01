@@ -26,6 +26,7 @@
         <mark key="]" line="14" column="21" />
         <mark key="." line="14" column="21" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/see/doc/05.code/01.配置文件/dept_ctg_fln_desc.csv" timestamp="1585737751253" />
       <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/etl_v2/label/edgenode/label_main.py" timestamp="1581330377020">
         <mark key="[" line="54" column="42" />
         <mark key="]" line="54" column="42" />
@@ -36,6 +37,7 @@
         <mark key="]" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/see/doc/05.code/01.配置文件/sams_category_fineline_desc.csv" timestamp="1585737593741" />
     </filemarks>
     <jumps>
       <jump line="18" column="31" filename="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/crowd/autorefresh/tree.py" />
