@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1586869103005">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1586085555915">
         <mark key="[" line="0" column="0" />
       </file>
@@ -15,8 +18,6 @@
         <mark key="]" line="14" column="21" />
         <mark key="." line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/see/doc/05.code/01.配置文件/sams品类信息表.csv" timestamp="1585807853117" />
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/rssrc/main/java/com/meritco/wpe/api/couponanalysis/CouponAnalysisService.java" timestamp="1586246965138" />
       <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/popup/job/PopupTaskScheduler.java" timestamp="1586086096860">
         <mark key="[" line="8" column="34" />
       </file>
@@ -26,24 +27,12 @@
       <file name="$USER_HOME$/PycharmProjects/wangjian/src/cv/cv_test1.py" timestamp="1583376203021">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/couponanalysis/func/CouponAnalysisMgr.java" timestamp="1585881437180" />
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/rssrc/main/java/com/meritco/wpe/api/evoucher/EvoucherService.java" timestamp="1585882575201" />
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/couponanalysis/dao/CouponAnalysisInfoRepository.java" timestamp="1585881314335" />
-      <file name="/Dummy.txt" timestamp="1586402426397">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/popup/job/PopupTaskScheduleMgrImpl.java" timestamp="1585920855321" />
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/popup/job/PopupTask.java" timestamp="1586085651429" />
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/conf/webAppContext.xml" timestamp="1585837697794" />
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/rssrc/main/java/com/meritco/wpe/api/crowd/CrowdService.java" timestamp="1585916611475" />
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/rssrc/main/java/com/meritco/wpe/api/bi/BIService.java" timestamp="1585916565978" />
       <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/couponanalysis/job/CouponAnalysisTask.java" timestamp="1585881526325">
         <mark key="[" line="114" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/couponanalysis/dao/CouponAnalysisStatusRepository.java" timestamp="1585881293085">
         <mark key="[" line="20" column="53" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/bi/job/BIScriptTimeOutCheckJob.java" timestamp="1585916550550" />
     </filemarks>
     <jumps>
       <jump line="18" column="31" filename="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/crowd/autorefresh/tree.py" />
