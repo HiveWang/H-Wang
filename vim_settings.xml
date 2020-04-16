@@ -9,6 +9,9 @@
       <file name="/Python Console" timestamp="1586085555915">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/wangjian/src/cv/cv_test1.py" timestamp="1583376203021">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1581053897544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,15 +27,13 @@
       <file name="$USER_HOME$/PycharmProjects/see/doc/07.release/update-sqlserver_for_202003.sql" timestamp="1586506124127">
         <mark key="[" line="208" column="88" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wangjian/src/cv/cv_test1.py" timestamp="1583376203021">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/couponanalysis/job/CouponAnalysisTask.java" timestamp="1585881526325">
         <mark key="[" line="114" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/couponanalysis/dao/CouponAnalysisStatusRepository.java" timestamp="1585881293085">
         <mark key="[" line="20" column="53" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/crowd/func/CrowdTaskMgrImpl.java" timestamp="1587021412505" />
     </filemarks>
     <jumps>
       <jump line="18" column="31" filename="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/crowd/autorefresh/tree.py" />
