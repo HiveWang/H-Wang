@@ -33,7 +33,7 @@
       <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/couponanalysis/dao/CouponAnalysisStatusRepository.java" timestamp="1585881293085">
         <mark key="[" line="20" column="53" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/crowd/func/CrowdTaskMgrImpl.java" timestamp="1587021412505" />
+      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/crowd/func/CrowdTaskMgrImpl.java" timestamp="1587025690828" />
     </filemarks>
     <jumps>
       <jump line="18" column="31" filename="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/crowd/autorefresh/tree.py" />
