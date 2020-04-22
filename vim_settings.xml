@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/eclipse-workspace/consume_hxt/src/com/hadoop/project/weibo/WeiboMobileIDCountMapper.java" timestamp="1587558591280" />
       <file name="/Dummy.txt" timestamp="1586869103005">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,7 +34,6 @@
       <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/couponanalysis/dao/CouponAnalysisStatusRepository.java" timestamp="1585881293085">
         <mark key="[" line="20" column="53" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/crowd/func/CrowdTaskMgrImpl.java" timestamp="1587032064318" />
     </filemarks>
     <jumps>
       <jump line="18" column="31" filename="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/crowd/autorefresh/tree.py" />
