@@ -3,18 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587710538531">
+      <file name="/Dummy.txt" timestamp="1589190360538">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/see/doc/03.srs/ETL dwb补数流程.md" timestamp="1589011082714" />
       <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/etl_v2/dwb/sams/PeoplePool_sams_v2.py" timestamp="1589012393538" />
       <file name="/Python Console" timestamp="1586085555915">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/etl_v2/dwb/walmart/PeoplePool_v3.py" timestamp="1589012467318">
-        <mark key="[" line="8" column="25" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/wangjian/src/cv/cv_test1.py" timestamp="1583376203021">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1581053897544">
@@ -32,6 +26,20 @@
       <file name="$USER_HOME$/PycharmProjects/see/doc/07.release/update-sqlserver_for_202003.sql" timestamp="1586506124127">
         <mark key="[" line="208" column="88" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/etl_v2/label/self_support/label_entry.py" timestamp="1589186641124">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wangjian/src/coding/coding_5.py" timestamp="1589186526123">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/etl_v2/dwb/walmart/PeoplePool_v3.py" timestamp="1589012467318">
+        <mark key="[" line="8" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wangjian/src/cv/cv_test1.py" timestamp="1583376203021">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/couponanalysis/job/CouponAnalysisTask.java" timestamp="1585881526325">
         <mark key="[" line="114" column="34" />
       </file>
@@ -46,10 +54,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>os._exists()</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>os._exists()</text>
       </register>
     </registers>
     <search>
