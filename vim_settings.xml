@@ -1,14 +1,15 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589190360538">
+      <file name="/Dummy.txt" timestamp="1590817537341">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/see/doc/03.srs/ETL dwb补数流程.md" timestamp="1589011082714" />
-      <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/etl_v2/dwb/sams/PeoplePool_sams_v2.py" timestamp="1589012393538" />
-      <file name="/Python Console" timestamp="1586085555915">
+      <file name="/Python Console" timestamp="1590817535632">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnist_test" timestamp="1590817941854">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1581053897544">
@@ -49,6 +50,11 @@
       <file name="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/java/com/meritco/wpe/dm/couponanalysis/dao/CouponAnalysisStatusRepository.java" timestamp="1585881293085">
         <mark key="[" line="20" column="53" />
       </file>
+      <file name="$USER_HOME$/work/coding/deeplearning/01_mnist/mnist_test.py" timestamp="1590817961457">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="31" filename="$USER_HOME$/PycharmProjects/see/wpe-task-engine/src/main/python/crowd/autorefresh/tree.py" />
@@ -57,10 +63,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>os._exists()</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>os._exists()</text>
+        <text />
       </register>
     </registers>
     <search>
